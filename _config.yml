@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6636798
 color:
-  saturation: 0.6816009
+  saturation: 1
   brandStrength: 0.3853046
-  lightness: 0.6457586
+  lightness: 1
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
@@ -21,6 +22,5 @@ color:
     - '#6B574B'
     - '#160600'
   rhythmicContrast: 0.4462365
-typography_spectrum: 0.6636798
 layout_spectrum: 0.5860214
 name: Squash Massage & Bodywork
