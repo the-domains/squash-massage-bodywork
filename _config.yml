@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6636798
+typography_spectrum: 0.7350214589387178
 color:
-  saturation: 1
-  brandStrength: 0.3853046
-  lightness: 1
+  saturation: 0.5866102641448379
+  brandStrength: 0.4419786655344069
+  lightness: 0.9361996951047331
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.4462365
-layout_spectrum: 0.5860214
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  rhythmicContrast: 0.8157908672001213
+layout_spectrum: 0.3847957302350551
 name: Squash Massage & Bodywork
